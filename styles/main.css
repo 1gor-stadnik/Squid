@@ -544,6 +544,7 @@ input{
 }
 .social{
     display: flex;
+    gap: 10px;
 }
 .soc_box{
     background: #18181C;
